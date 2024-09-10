@@ -1,0 +1,52 @@
+*{
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+    align-content: center;
+}
+
+.content{
+    width: 1000px;
+    height: 400px;
+}
+
+.content .photo{
+    display: inline;
+}
+
+.content .photo img{
+    margin: 50px 0 50px 50px;
+    border-radius: 50%;
+    border: 10px double purple;
+}
+
+.content .follow{
+    display:inline-block;
+    width: 400px;
+    margin: 40px 60px 60px 60px;
+    padding: 30px;
+    text-align: center;
+}
+
+
+.info ul li{
+    display: block;
+    text-decoration-style: none;
+    margin-top: 5px;
+}
+
+.content .follow table tr td{
+    padding: 0 15px;
+}
+
+#hr{
+   margin: 20px;
+}
+
+#hr2{
+    margin: 30px 50px 20px 50px;
+}
+th{
+    padding-top: 10px;
+    font-size: 20px;
+}
+
